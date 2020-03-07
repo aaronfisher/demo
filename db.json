@@ -3,12 +3,12 @@
  {
     "id": 1,
     "name": "EVgo",
-    "description": "1765 California St, San Francisco, CA 94109",
+    "description": "CCS, Tesla, and Chademo",
     "latitude": 40.759010,
     "longitude": -73.984474,
     "batteryLevel": 98,
     "timestamp": "2019-03-10T09:31:56Z",
-    "price": "CCS, Tesla, and Chademo",
+    "price": ,
     "priceTime": 60,
     "currency": ""
   },
