@@ -2,8 +2,8 @@
   "posts": [
  {
     "id": 1,
-    "name": "000011",
-    "description": "Electric Scooter",
+    "name": "EVgo",
+    "description": "Whole Foods",
     "latitude": 40.759010,
     "longitude": -73.984474,
     "batteryLevel": 98,
