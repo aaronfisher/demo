@@ -8,9 +8,9 @@
     "longitude": -73.984474,
     "batteryLevel": 98,
     "timestamp": "2019-03-10T09:31:56Z",
-    "price": 20,
+    "price": ,
     "priceTime": 60,
-    "currency": "€"
+    "currency": ""
   },
   {
     "id": 2,
