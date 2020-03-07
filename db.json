@@ -2,8 +2,8 @@
   "posts": [
  {
     "id": 1,
-    "name": "EVgo",
-    "description": "CCS, Tesla, and Chademo",
+    "name": "Whole Foods",
+    "description": "EVgo: CCS, Tesla, and Chademo",
     "latitude": 40.759010,
     "longitude": -73.984474,
     "batteryLevel": 98,
